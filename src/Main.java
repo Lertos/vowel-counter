@@ -17,7 +17,8 @@ public class Main {
                 break;
             }
 
-            int count = naiveApproach(response);
+            //int count = naiveApproach(response);
+            int count = regexApproach(response);
 
             System.out.println("Your text had " + count + " vowels in it.");
             System.out.println("\nSupply another phrase, or type 'q' to quit.");
@@ -37,5 +38,9 @@ public class Main {
         }
 
         return count;
+    }
+
+    private static int regexApproach(String text) {
+        return text.replaceAll("[^aeiouAEIOU]","").length();
     }
 }
