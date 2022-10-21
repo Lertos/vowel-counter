@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81db290b-bd20-41b3-ac57-407fc52667b5" name="Changes" comment="Setting up the Scanner loop">
+    <list default="true" id="81db290b-bd20-41b3-ac57-407fc52667b5" name="Changes" comment="Creating the naive approach to counting the vowels">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -44,7 +44,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666306499949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Setting up the Scanner loop">
+      <created>1666361137007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666361137007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +68,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Setting up the Scanner loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up the Scanner loop" />
+    <MESSAGE value="Creating the naive approach to counting the vowels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating the naive approach to counting the vowels" />
   </component>
 </project>
