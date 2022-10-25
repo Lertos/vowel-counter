@@ -1,6 +1,9 @@
 # vowel-counter
 A simple application that, when given a sentence, will return the amount of vowels it contains.
 
+# Level:
+Simple
+
 # Learned
 - How to use the Scanner object
 - How to iterate through Strings
